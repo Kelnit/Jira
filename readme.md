@@ -7,14 +7,14 @@
   
 ### 🚀 Output
 *   Using EfficientNetB5 on 878 Male and Female Object w/ Objective to Catch Male that Wearing Hijab / Jilbab.  
-*   Using EfficientNetB5 Help to Build High Accuracy Classifier Model *0.96 on Training + 0.93 on Validating*.   
-*   Training Metrics on 8 Training Loop
+*   Using EfficientNetB5 Help to Build High Accuracy Classifier Model *0.97 on Training + 0.93 on Validating*.   
+*   Training Metrics on 7 Training Loop
   
-> ![image](https://github.com/Kelniter/MnM/assets/174873950/4e912b7d-f638-45de-a825-60c604fdccfa)
+> ![image](https://github.com/user-attachments/assets/0fc4743a-ed93-4c73-87e7-49fc255133a0)
 
-* Testing Metrics on 8 Training Loop
+* Testing Metrics on 7 Training Loop
   
-> ![image](https://github.com/Kelniter/MnM/assets/174873950/4b258093-7884-453f-b42c-d42659a9afaa)
+> ![image](https://github.com/user-attachments/assets/074aa758-ec57-4569-a80e-f4cbb3dbc253)
 
 ### 📖 Others
 * [TensorFlow EfficientNetB5 Model](https://www.tensorflow.org/api_docs/python/tf/keras/applications/EfficientNetB5)
